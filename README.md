@@ -103,7 +103,26 @@ VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 
 <div align="center">
 
+## 📂 Project Directory Structure
+
+```text
+AURAWORKSPACE/
+├── frontend/
+│   ├── public/              # Static assets and icons
+│   ├── src/                 # Application source code (components, pages, hooks)
+│   ├── .env                 # Environment variables
+│   ├── .gitignore           # Git ignored files configuration
+│   ├── eslint.config.js     # Code quality and linting configuration
+│   ├── index.html           # Single Page Application entry HTML
+│   ├── package-lock.json    # Locked dependency tree
+│   ├── package.json         # Project metadata and dependencies
+│   ├── postcss.config.js    # PostCSS configuration for Tailwind CSS
+│   ├── tailwind.config.js   # Tailwind CSS theme and plugin setup
+│   └── vite.config.js       # Vite development and build configuration
+└── README.md                # Project documentation
+```
+
 Developed with ❤️ by **Rehman-dev288**  
-🌐 Live Demo: [auraworkspace.vercel.app](https://auraworkspace.vercel.app)
+
 
 </div>
