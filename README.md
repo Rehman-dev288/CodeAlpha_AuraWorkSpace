@@ -101,8 +101,6 @@ VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 
 ---
 
-<div align="center">
-
 ## 📂 Project Directory Structure
 
 ```text
@@ -122,6 +120,10 @@ AURAWORKSPACE/
 └── README.md                # Project documentation
 ```
 ---
+
+<div align="center">
+
+
 
 Developed with ❤️ by **Rehman-dev288**  
 
