@@ -2,10 +2,10 @@
 
   <h1>🌌 Aura Workspace</h1>
   <p><strong>A High-End E-Commerce & Productivity Guide Platform for Developer Desk Setups</strong></p>
-  <p><em>Developed during the CodeAlpha Full-Stack Web Development Internship</em></p>
+  <p><em>Developed during the CodeAlpha Full-Stack Development Internship</em></p>
 
   <p>
-    <a href="https://aura-workspace.vercel.app"><strong>View Live Demo »</strong></a>
+    <a href="https://auraworkspace.vercel.app"><strong>View Live Demo »</strong></a>
     &nbsp;•&nbsp;
     <a href="https://github.com/Rehman-dev288/CodeAlpha_AuraWorkSpace"><strong>Explore Repository »</strong></a>
   </p>
@@ -24,7 +24,7 @@
 
 ## 📌 Executive Overview
 
-**Aura Workspace** is a curated web application engineered for software developers, creative professionals, and digital nomads who seek to optimize their physical work environments. Developed as a flagship full-stack project during the **CodeAlpha Web Development Internship**, the platform seamlessly bridges minimalist e-commerce hardware shopping with actionable productivity setup engineering.
+**Aura Workspace** is a curated web application engineered for software developers, creative professionals, and digital nomads who seek to optimize their physical work environments. Developed as a flagship full-stack project during the **CodeAlpha Full-Stack Development Internship**, the platform seamlessly bridges minimalist e-commerce hardware shopping with actionable productivity setup engineering.
 
 Rather than acting purely as a static digital storefront, Aura Workspace evaluates workspace aesthetics, ergonomic lighting, and audio gear, pairing product catalogs directly with context-aware setup guides explaining *why* specific hardware improves workflow efficiency.
 
@@ -104,6 +104,6 @@ VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 <div align="center">
 
 Developed with ❤️ by **Rehman-dev288**  
-🌐 Live Demo: [aura-workspace.vercel.app](https://aura-workspace.vercel.app)
+🌐 Live Demo: [auraworkspace.vercel.app](https://auraworkspace.vercel.app)
 
 </div>
