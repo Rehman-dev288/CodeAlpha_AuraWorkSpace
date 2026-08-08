@@ -121,6 +121,7 @@ AURAWORKSPACE/
 │   └── vite.config.js       # Vite development and build configuration
 └── README.md                # Project documentation
 ```
+---
 
 Developed with ❤️ by **Rehman-dev288**  
 
